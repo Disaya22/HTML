@@ -1,0 +1,45 @@
+List
+⦁	ul = unordered list
+⦁	ol = order list
+⦁	dl = description list
+⦁	dd = description definition
+⦁	dt = description term
+⦁	li = list item
+
+#file index.html
+<!-- Unordered list -->
+        <h1>Groceries</h1>
+        <ul>
+            <li>flour</li>
+            <li>milk</li>
+            <li>butter</li>
+            <ul>
+                <li>pure butter</li>
+                <li>butter blend</li>
+                <li>margarine</li>
+            </ul>
+        </ul>
+
+        <!-- Ordered list-->
+        <h1>To do list</h1>
+        <ol>
+            <li>have breakfast</li>
+            <li>go to class</li>
+            <li>walk dog</li>
+        </ol>
+
+        <!-- Description list -->
+        <h1>Mythical creatures</h1>
+        <dl style="background-color: peachpuff;
+        border: 2px solid;">
+            <dt>dragon</dt>
+            <dd>a mythical monster resembling a giant reptile,
+                sometimes shown as having wings.</dd>
+            <dt>siren</dt>
+            <dd>women or winged creatures whose singing 
+                lured unwary sailors on to rocks.</dd>
+            <dt>werewolf</dt>
+            <dd>a person who changes for periods of time into a wolf,
+                typically when there is a full moon.</dd>
+        </dl>
+

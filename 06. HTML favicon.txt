@@ -1,0 +1,13 @@
+Favicon
+⦁	Recommended 96X96 pixels 
+⦁	For a favicon, most modern web browsers accept .ico, .png, .gif, .jpg, .svg 
+
+#file index.html
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpn" href="shinchan.jpg">
+    <title>Document</title>
+</head>
+
+

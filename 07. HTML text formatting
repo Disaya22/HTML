@@ -1,0 +1,13 @@
+<body>
+<p>this is normal text</p>
+        <p>this is <b>bold</b> text</p>
+        <p>this is <i>italic</i> text</p>
+        <p>this is <u>under lined</u> text</p>
+        <p>this is <del>delete</del> text</p>
+        <p>this is <big>big</big> text</p>
+        <p>this is <small>small</small> text</p>
+        <p>this is <sub>subscript</sub> text</p>
+        <p>this is <sup>superscript</sup> text</p>
+        <p>this is <tt>monospaced</tt> text</p>
+        <p>this is <mark style="background-color: hotpink;">mark</mark> text</p>
+</body>

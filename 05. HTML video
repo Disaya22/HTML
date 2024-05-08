@@ -1,0 +1,15 @@
+Videos
+⦁	We can also include video in our web page
+⦁	We need a video file such as .mp4 .webm .ogg 
+⦁	We should have any controls to let the vedio play right away
+⦁	Turn a picture into hyperlink
+⦁	Sometime, we need to navigate to the images folder
+
+#file index.htmll
+<a href="https://www.google.com" target="_blank">
+    <video width="300px" controls autoplay muted>
+        <source src="wine.mp4" type="video/mp4">
+    </video>
+</a>
+
+

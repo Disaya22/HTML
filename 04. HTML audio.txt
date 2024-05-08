@@ -1,0 +1,30 @@
+Audio
+⦁	We can include audio in a web page using HTML. We need some audio files to work with
+⦁	You can download MP3 files from the youtube audio library
+
+#file index.html
+<audio>
+        <source src="IDrinkWine.mp3">
+</audio>
+
+⦁	We should have any controls to let the song play right away
+
+#file index.html
+<audio controls autoplay muted loop>
+       	<source src="IDrinkWine.mp3">
+</audio>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

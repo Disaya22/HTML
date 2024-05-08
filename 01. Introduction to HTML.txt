@@ -1,0 +1,63 @@
+1 .HTML = hyper-text markup language
+
+Certain types of tags also know as markup
+which is used to convey to a web browser 
+how some content should be displayed.
+
+Usually, tags are in pairs with some content 
+sandwiched between them
+
+<tags>some content<tags>
+
+HTML adds structure to a web page, 
+the skeletal structure to support all content 
+on a website
+
+2. We need a folder to hold all of the documents 
+related to our website.
+
+3. <!DOCTYPE html> is a declaration that 
+this document is an HTML5 document.
+
+//We will create a pair of html tags
+4. Html tag represents the root element 
+of an HTML page.
+
+5. Between these two tags we will add 
+a pair of head tags.
+
+6. The head element contains information 
+about your web page such as a title.
+
+7. Title tags are used to represents 
+the name of your web page. 
+
+8. The body tags, the body element contains 
+visible content in your web page.
+
+9. Between our body tags let’s add 
+a pair of H1 header tags.
+
+10. We also add a pair of header tags such as
+H2, H3, H4 or H5
+
+11. Paragraph tags we can use a pair of p tags.
+
+12. Lorem, this will create some text.
+
+13. We can use a <br> tag if we want one line break.
+
+14. If you want to add a horizontal line 
+across your page, you can use a <hr> tag.
+
+15. Pre-formatted tags <pre> would retain 
+any line breaks or space within these tags.
+
+16. <!-- comment -->  Comments aren’t displayed 
+as output. Usually, use as notes.
+
+
+
+
+
+

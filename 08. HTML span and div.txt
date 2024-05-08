@@ -1,0 +1,46 @@
+Span and div
+⦁	Both Define a section in a document
+⦁	We use to Group together HTML
+
+⦁	<span> = inline container to group elements for styling purposes
+⦁	The SPAN element is an inline element, and will not start on a new line and only takes up as much width as necessary.
+⦁	The <span> element is an inline container used to mark up a part of a text, or a part of a document.
+⦁	When used together with CSS, the <span> element can be used to style parts of the text
+
+⦁	<div> = block container to group elements for styling purposes
+⦁	The P and the DIV elements are both block elements, and they will always start on a new line and take up the full width available (stretches out to the left and right as far as it can)
+⦁	The <div> element is a block-level and is often used as a container for other HTML elements
+⦁	When used together with CSS, the <div> element can be used to style blocks of content
+
+#file index.html
+<body>
+ <h1><span style="background-color: rgb(93, 152, 123);">This is span title</span></h1>
+        <h1><div style="background-color: palevioletred;">This is a div title</div></h1>
+
+        <p><span style="background-color: rgb(93, 152, 123);">This is a span sentence</span></p>
+        <p><div style="background-color: palevioletred;">This is a div sentence</div></p>
+
+        <pre><span style="background-color: rgb(93, 152, 123);">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Aperiam doloremque quisquam aut repudiandae numquam perspiciatis 
+    voluptatibus deserunt? A sunt voluptatem, ad magni voluptas eius 
+    ut consectetur perspiciatis doloribus. Soluta, qui!</span></pre>
+        <pre><div style="background-color: palevioletred;">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Aperiam doloremque quisquam aut repudiandae numquam perspiciatis 
+    voluptatibus deserunt? A sunt voluptatem, ad magni voluptas eius 
+    ut consectetur perspiciatis doloribus. Soluta, qui!</div></pre>
+
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
+
+<p>My mother has <span style="color:blue;font-weight:bold;">blue</span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold;">dark green</span> eyes.</p>
+
+</body>
+
+
+
+

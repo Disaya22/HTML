@@ -1,0 +1,38 @@
+Image
+⦁	Make sure that at least a picture file in your folder
+⦁	Insert a picture and use alt attribute when the picture doesn’t appear
+
+#file index.html
+<img src="shinchan.jpg"
+    alt="This is Shinchan"
+    height="200">
+
+
+⦁	Turn a picture into hyperlink
+
+#file index.html
+<a href="https://en.wikipedia.org/wiki/Crayon_Shin-chan">
+    <img src="shinchan.jpg"
+    alt="This is Shinchan"
+    height="200">
+    </a>
+
+
+⦁	Sometime, we need to navigate to the images folder
+
+#file index.html
+<ahref="https://en.wikipedia.org/wiki/Crayon_Shin-chan">
+    <img src="/image/shinchan.jpg"
+    alt="This is Shinchan"
+    height="200">
+</a>
+
+
+
+
+
+
+
+
+
+
